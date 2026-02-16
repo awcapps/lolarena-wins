@@ -29,7 +29,7 @@ Tracker de progression pour le mode **Arena** de League of Legends. Validez tous
 
 ```bash
 # Cloner le projet
-git clone <repo-url>
+git clone https://github.com/Bkh84/lolarena-wins.git
 cd lolarena-wins
 
 # Installer les dépendances

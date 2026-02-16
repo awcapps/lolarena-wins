@@ -103,5 +103,5 @@ Premier release du tracker de victoires Arena pour League of Legends.
 - **MINOR** (0.X.0) : Ajout de fonctionnalités rétro-compatibles
 - **PATCH** (0.0.X) : Corrections de bugs rétro-compatibles
 
-[Unreleased]: https://github.com/votre-repo/lolarena-wins/compare/v0.1.0...HEAD
-[0.1.0]: https://github.com/votre-repo/lolarena-wins/releases/tag/v0.1.0
+[Unreleased]: https://github.com/Bkh84/lolarena-wins/compare/v0.1.0...HEAD
+[0.1.0]: https://github.com/Bkh84/lolarena-wins/releases/tag/v0.1.0
